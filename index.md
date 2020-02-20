@@ -8,7 +8,7 @@
   <p><b>爱好羽毛球，推理和宅</b></p>
 </td>
   <td width="40%">
-    <img src="u=2887308286,3997673941&fm=26&gp=0.jpg"width="80%">    
+    <img src="/u=2887308286,3997673941&fm=26&gp=0.jpg" width="80%">    
     </td>
   </tr>
   </table>
