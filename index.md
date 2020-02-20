@@ -1,12 +1,12 @@
-### ABOUT ME
+## ABOUT ME
 ####  我叫陈嘉鑫
 ####  是一名在校大学生，就读于浙江万里学院
 ####  我来自于浙江
 ####  爱好羽毛球，推理和宅
 
-###  What is this homepage for？？？
+##  What is this homepage for？？？
 ####  这只是个普普通通的主页，为这不平凡的2020做个记录
-###  What am I going to say？？？
+##  What am I going to say？？？
 ####  2020是一个新开始，虽有波折，也要继续努力
 ####  每一个不曾起舞的日子都是对生命的辜负
 
