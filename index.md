@@ -4,9 +4,9 @@
 ####  我来自于浙江
 ####  爱好羽毛球，推理和宅
 
-##  What is this homepage for？？？
+###  WHAT IS THIS HOMEPAGE FOR？？？
 ####  这只是个普普通通的主页，为这不平凡的2020做个记录
-##  What am I going to say？？？
+###  WHAT AM I GOING TO SAY？？？
 ####  2020是一个新开始，虽有波折，也要继续努力
 ####  每一个不曾起舞的日子都是对生命的辜负
 
