@@ -15,14 +15,5 @@
     </td>
   </tr>
   </table>
- <img src="/ti.gif" width="100%"> 
-###  WHAT IS THIS HOMEPAGE FOR？？？
-<li>这只是个普普通通的主页，为这不平凡的2020做个记录</li>
-
-###  WHAT AM I GOING TO SAY？？？
-<li>  2020是一个新开始，虽有波折，也要继续努力</li>
-
-####  每一个不曾起舞的日子都是对生命的辜负
-
-#### 记于2020.2.20
+ <img src="/ti.gif" width="20%"> 
 
