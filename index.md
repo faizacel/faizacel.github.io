@@ -1,5 +1,5 @@
-<body background="timg.jpg">
-  <body background="timg.jpg" body bgproperties=fixed>
+
+<body background="timg.jpg" body bgproperties=fixed>
 <table border="0">
 <tr>
 <td width="60%">
