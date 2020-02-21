@@ -1,5 +1,4 @@
 
-
 <table border="0">
 <tr>
 <td width="60%">
@@ -15,15 +14,15 @@
     </td>
   </tr>
   </table>
-     <img src="/ti.gif" width="20%"> 
+ <div>    
 <p><h2>教育经历</h2></p>
 <p><b>莲都小学</b></p>
 <p><b>花园中学</b></p>
 <p><b>丽水学院附中</b></p>
 <p><h2>基本技能</h2><p>
 <p><b>目前仍在学习中</b></p>
-
-
+</div>
+ <img src="/ti.gif" width="20%"> 
 <marquee>已经到底了</marquee>
 
 
