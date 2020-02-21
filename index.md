@@ -4,8 +4,8 @@
 <tr>
 <td width="60%">
 <h1> ABOUT ME</h1>
-  <p><b>姓名：陈嘉鑫 邮箱：852063604@qq.com</b></p>
-  <p><b>学历：本科             </b></p>
+  <p><b>姓名：陈嘉鑫 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&emsp;&emsp;&emsp;&emsp;邮箱：852063604@qq.com</b></p>
+  <p><b>学历：本科  &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&nbsp; 专业：通信工程          </b></p>
   <p><b>学校：浙江万里学院</b></p>
   <p><b>爱好：羽毛球，推理和宅</b></p>
  <p><b>所在地：浙江</b></p>
@@ -20,8 +20,10 @@
      <p><b>莲都小学</b></p>
       <p><b>花园中学</b></p>
         <p><b>丽水学院附中</b></p>
+<HR style="FILTER: alpha(opacity=100,finishopacity=0,style=3)" width="80%" color=#987cb9 SIZE=3>
 <p><h2>基本技能</h2><p>
 <p><b>目前仍在学习中</b></p>
+<HR style="FILTER: alpha(opacity=100,finishopacity=0,style=3)" width="80%" color=#987cb9 SIZE=3>
 <p><h2>对今后的展望</h2></p>
 <p><b>自己在大学更加努力，把该做的事都做了</b></p>
 
