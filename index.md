@@ -28,7 +28,7 @@
 <p><b>自己在大学更加努力，把该做的事都做了</b></p>
 <p><b>每一个不曾起舞的日子都是对生命的辜负</b></p>
  
-<p>&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<img src="/ti.gif" width="20%"> </p>
+<p>&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<img src="/ti.gif" width="20%"> </p>
 <marquee>已经到底了</marquee>
 
 
