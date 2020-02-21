@@ -21,3 +21,5 @@
 <p><b>花园中学</b></p>
 <p><b>丽水学院附中</b></p>
 <marquee>写上你想写的字</marquee>
+
+<meta http-equiv="Page-Enter" content="revealTrans(duration=x, transition=y)">
