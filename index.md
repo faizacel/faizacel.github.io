@@ -1,5 +1,4 @@
-<body background="timgUKW0N44O.jpg" body
-bgproperties=fixed>
+
 <body background="timgUKW0N44O.jpg">
 <table border="0">
 <tr>
@@ -21,10 +20,10 @@ bgproperties=fixed>
      <p><b>莲都小学</b></p>
       <p><b>花园中学</b></p>
         <p><b>丽水学院附中</b></p>
- <HR style="FILTER: alpha(opacity=100,finishopacity=0,style=3)" width="80%" color=#987cb9 SIZE=3>
+<p></p>
 <p><h2>基本技能</h2><p>
 <p><b>目前仍在学习中</b></p>
- <HR style="FILTER: alpha(opacity=100,finishopacity=0,style=3)" width="80%" color=#987cb9 SIZE=3>
+ <p></p>
 <p><h2>对今后的展望</h2></p>
 <p><b>自己在大学更加努力，把该做的事都做了</b></p>
 
